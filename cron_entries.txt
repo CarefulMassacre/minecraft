@@ -1,0 +1,5 @@
+0 05 * * * /usr/bin/bash /home/naildownx/scripts/minecraft_version_check.sh
+45 11 * * * /usr/bin/bash /home/naildownx/scripts/minecraft_version_check.sh
+0 17 * * * /usr/bin/bash /home/naildownx/scripts/minecraft_version_check.sh
+0 19 * * * /usr/bin/bash /home/naildownx/scripts/minecraft_version_check.sh
+0 03 * * * /usr/bin/bash /home/naildownx/bin/backup_minecraft.sh

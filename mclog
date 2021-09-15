@@ -1,0 +1,1 @@
+tail -n 20 ~/minecraft/logs/latest.log
